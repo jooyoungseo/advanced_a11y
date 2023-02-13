@@ -107,6 +107,14 @@ bib <- ReadBib("references.bib", check = FALSE)
 
 ---
 
+# Prerequisites...
+
+- Some experience with [R programming language](https://cran.r-project.org/).
+
+- Some background knolwedge in [Pandoc Markdown](https://pandoc.org/MANUAL.html).
+
+---
+
 # About Me
 
 - Blind person (one of my identities).
@@ -538,7 +546,7 @@ penguins %>%
 
 # Next Steps
 
-- Data Accessibilization: Multi-modal interactive data viz.
+- [MAIDR: Multimodal Access and Interactive Data Representation](https://uiuc-ischool-accessible-computing-lab.github.io/MAIDR/).
 
 - Funded by the Wallace Foundation and ISLS.
 
