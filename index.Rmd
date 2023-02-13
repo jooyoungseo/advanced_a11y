@@ -111,7 +111,7 @@ bib <- ReadBib("references.bib", check = FALSE)
 
 - Some experience with [R programming language](https://cran.r-project.org/).
 
-- Some background knolwedge in [Pandoc Markdown](https://pandoc.org/MANUAL.html).
+- Some background knowledge in [Pandoc Markdown](https://pandoc.org/MANUAL.html).
 
 ---
 
