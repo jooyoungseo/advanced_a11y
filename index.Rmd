@@ -115,20 +115,6 @@ bib <- ReadBib("references.bib", check = FALSE)
 
 ---
 
-# About Me
-
-- Blind person (one of my identities).
-
-- Assistant professor at the UIUC iSchool + NCSA affiliate.
-
-- RStudio DS education partner.
-
-- Open-source contributor + R developer: {rmarkdown}, {shiny}, {bookdown}, {distill}, {rticles} ...
-
-- Certified a11y professional.
-
----
-
 # .question[How Do I Use Computer?]
 
 ???
